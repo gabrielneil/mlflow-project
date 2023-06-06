@@ -1,6 +1,7 @@
 artifact_location: file:///Users/gabrielneil/Repos/mlflow-project/mlruns/0
 creation_time: 1686072924260
 experiment_id: '0'
-last_update_time: 1686072924260
+last_update_time: 1686073526475
 lifecycle_stage: active
-name: Default
+name: Gabriel_Neil_Project
+tags: {}

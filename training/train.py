@@ -34,7 +34,9 @@ def score(lr, X, y):
 
 def save_model(lr, X, predictions):
     signature = infer_signature(X, predictions)
-    mlflow.sklearn.log_model(lr, "model", signature=signature)
+    mlflow.sklearn.log_model(lr, "model",
+                             registered_model_name="my-sklearn-model",
+                             signature=signature)
     print("Model saved in run %s" % mlflow.active_run().info.run_uuid)
 
 
