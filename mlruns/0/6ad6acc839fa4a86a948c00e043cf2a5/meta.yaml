@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gabrielneil/Repos/mlflow-project/mlruns/0/6ad6acc839fa4a86a948c00e043cf2a5/artifacts
+end_time: 1686075662643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ad6acc839fa4a86a948c00e043cf2a5
+run_name: thundering-gnu-196
+run_uuid: 6ad6acc839fa4a86a948c00e043cf2a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686075661445
+status: 3
+tags: []
+user_id: gabrielneil

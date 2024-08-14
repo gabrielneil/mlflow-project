@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gabrielneil/Repos/mlflow-project/mlruns/0/66e741a6205e42cc9ad424d392834907/artifacts
+end_time: 1686075494638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66e741a6205e42cc9ad424d392834907
+run_name: funny-wren-299
+run_uuid: 66e741a6205e42cc9ad424d392834907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686075493516
+status: 3
+tags: []
+user_id: gabrielneil

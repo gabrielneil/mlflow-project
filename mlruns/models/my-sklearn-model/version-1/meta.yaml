@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1686075494636
+current_stage: Production
+description: null
+last_updated_timestamp: 1686076920914
+name: my-sklearn-model
+run_id: 66e741a6205e42cc9ad424d392834907
+run_link: null
+source: file:///Users/gabrielneil/Repos/mlflow-project/mlruns/0/66e741a6205e42cc9ad424d392834907/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
